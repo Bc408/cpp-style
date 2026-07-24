@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Style"
+  short_description: "Strict C++ contest style guidance"
+  default_prompt: "Use $cpp-style to format competitive programming C++ code."

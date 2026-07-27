@@ -1,6 +1,6 @@
 ---
 name: cpp-style
-description: C++ coding style rules of algorithm contestant zbc, distilled from several hundred contest solutions. Whenever writing, modifying, or completing C++ code for the user, especially in algorithm contests or problem-solving contexts such as luogu, lanqiao, leetcode, codeforces, atcoder, nowcoder, and hdoj, every rule below MUST be applied without omission. The rules specify every space, comma, and line break so that any model produces exactly the same code style. TRIGGER: write code, solve problems, algorithms, problem solving, c++, cpp, contests, oj, luogu, leetcode, codeforces, atcoder, nowcoder, LuoGu, Lanqiao, solutions, AC, graph theory, DP, dfs, bfs, binary search, greedy.
+description: C++ coding style rules of algorithm contestant zbc, distilled from several hundred contest solutions. Whenever writing, modifying, or completing C++ code for the user, especially in algorithm contests or problem-solving contexts such as luogu, lanqiao, leetcode, codeforces, atcoder, nowcoder, and hdoj, every rule below MUST be applied without omission. The rules specify every space, comma, and line break so that any model produces exactly the same code style. TRIGGER:write code, solve problems, algorithms, problem solving, c++, cpp, contests, oj, luogu, leetcode, codeforces, atcoder, nowcoder, LuoGu, Lanqiao, solutions, AC, graph theory, DP, dfs, bfs, binary search, greedy.
 ---
 
 # User C++ Coding Style Rules
@@ -523,7 +523,7 @@ partial_sum(sufMax.rbegin(),sufMax.rend(),sufMax.rbegin(),...);
 
 ### 8.3 Comment content
 
-Use English. Explain what something is only when it is difficult to understand or rarely used; otherwise explain why it is needed or point out a pitfall. Do not write comments with personal emotions like some user comments do.
+Use Simplified Chinese. Explain what something is only when it is difficult to understand or rarely used; otherwise explain why it is needed or point out a pitfall. Do not write comments with personal emotions like some user comments do.
 
 ```cpp
 
@@ -570,7 +570,7 @@ Put the old solution **after the correct solution**, with a performance note suc
 ### 8.6 Forbidden comment styles
 
 - Do not use comments to explain "what the code does" when the code already says it, unless the logic is very hidden.
-- Do not write Chinese comments. All comments, including "TODO" and "FIXME", must be in English.
+- Do not write English comments. All comments, including "TODO" and "FIXME", must be in Simplified Chinese.
 
 ---
 

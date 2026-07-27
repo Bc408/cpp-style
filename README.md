@@ -1,7 +1,7 @@
 # cpp-style
 
 Strict C++ coding style rules for competitive programming, distilled from contest solutions.
-源自竞赛题解的严格C++代码规范，适用于算法竞赛。
+源自中文竞赛题解的严格C++代码规范，适用于算法竞赛。
 
 ## Contents
 - `SKILL.md`: the main skill instructions
